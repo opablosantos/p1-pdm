@@ -1,7 +1,9 @@
 # P1 Programação para Dispositivos Móveis
- 
- ---
- 
+
+---
+## AMANDA VEIGA FURTADO
+### RA: 2040482022027
+---
 ## ENOQUE WEI DER ZHOU
 ### RA: 2040482022036
 ---
