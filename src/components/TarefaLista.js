@@ -1,5 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css'
-
 function TarefaLista() {
   return (
     <div class="container">
