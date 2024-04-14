@@ -6,7 +6,6 @@ function App() {
   return (
     <div class="container p-4 m-6">
       <TarefaEntrada/>
-      <TarefaLista/>
   </div>
   );
 }
